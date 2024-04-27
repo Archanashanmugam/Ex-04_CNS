@@ -118,7 +118,7 @@ Snort monitoring traffic –
   # EXPLORING N-STALKER, A VULNERABILITY ASSESSMENT TOOL 
   
  # AIM: 
- To download the N-Stalker Vulnerability Assessment Tool and exploring the features. 
+ To download the N-Stalker Vulnerability Assessment Tool and exploring the features.
  
 # EXPLORING N-STALKER: 
  N-Stalker Web Application Security Scanner is a Web security assessment tool. 
